@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e420894b3c18d0e4fa3453fe72e4da18, type: 3}
+  m_Name: BuildingsConstructionMenu
+  m_EditorClassIdentifier: 
+  BuildingDataList:
+  - BuildingCategory: 0
+    Resource: 0
+    Building: {fileID: 4170390834018704640, guid: 2a6ac4036f36f294187ae4b88db606a2, type: 3}
+    BuildingTitle: Floor
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 1
+    Resource: 1
+    Building: {fileID: -5722445476277210737, guid: f04dd93809170e34c8ab1b3b83794fef, type: 3}
+    BuildingTitle: Desalination
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 2
+    Resource: 1
+    Building: {fileID: 499465002127362053, guid: fa8a5d706347bfa41b6425b18b27687a, type: 3}
+    BuildingTitle: Water Silo
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 1
+    Resource: 2
+    Building: {fileID: 499465002127362053, guid: 84a24dfd930767343a6791332d8df765, type: 3}
+    BuildingTitle: Scrapyard
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 2
+    Resource: 2
+    Building: {fileID: 499465002127362053, guid: efc9b3171a34283479aed3a8665a5d0b, type: 3}
+    BuildingTitle: Warehouse
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 1
+    Resource: 3
+    Building: {fileID: 499465002127362053, guid: 4803160fab3e5454db9ea8d9783072c9, type: 3}
+    BuildingTitle: Livestock farm
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 2
+    Resource: 3
+    Building: {fileID: 499465002127362053, guid: 8655a0960d313434fbc97b9be5e19f90, type: 3}
+    BuildingTitle: Granary
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 1
+    Resource: 4
+    Building: {fileID: 499465002127362053, guid: 97d2a2c8149bf8448958f6618769c207, type: 3}
+    BuildingTitle: WindMills
+    BuildingIcon: {fileID: 0}
+  - BuildingCategory: 2
+    Resource: 4
+    Building: {fileID: 499465002127362053, guid: 6d21237dd20fb1d4b9844b6224d51039, type: 3}
+    BuildingTitle: Powerhouse
+    BuildingIcon: {fileID: 0}
